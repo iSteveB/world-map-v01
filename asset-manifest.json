@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ca3c5a20.css",
+    "main.js": "/static/js/main.4594501b.js",
+    "index.html": "/index.html",
+    "static/media/sun.svg": "/static/media/sun.26da640e277d746927684a9ff7bd3be1.svg",
+    "static/media/arrow-dark.svg": "/static/media/arrow-dark.2aa3eaa8fcac61630892a3d8b84bc9b8.svg",
+    "static/media/arrow.svg": "/static/media/arrow.b31292ecfcc859f272a251c5a0d0b2f1.svg",
+    "static/media/moon.svg": "/static/media/moon.5770438498d78af0e41c8d261a610d1b.svg",
+    "static/media/search-dark.svg": "/static/media/search-dark.7824942e247004fedc660df0d931a6f9.svg",
+    "static/media/search.svg": "/static/media/search.b98a3872f67d656395ec35e80c94adb0.svg",
+    "static/media/chevron-dark.svg": "/static/media/chevron-dark.0f0451b735404cfed820b0cdaa9c589f.svg",
+    "static/media/chevron.svg": "/static/media/chevron.f64b3e06dddec5f45398e38dae561a85.svg",
+    "main.ca3c5a20.css.map": "/static/css/main.ca3c5a20.css.map",
+    "main.4594501b.js.map": "/static/js/main.4594501b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca3c5a20.css",
+    "static/js/main.4594501b.js"
+  ]
+}
